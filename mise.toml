@@ -8,6 +8,7 @@ ruby = "4.0"
 java      = 'temurin-21'
 maven     = 'latest'
 
+syft  = "latest"
 grype = "latest"
 
 [settings.ruby]
